@@ -1,0 +1,29 @@
+body{font-family:helvetica; text-align: center;}
+
+.figure .figcaption{
+		display: none;
+		position: absolute; 
+		text-align: center; 
+		margin-left:110px;
+    	width:100%; height:0;
+    	font-size: 10px; line-height: 0;
+    	color:black;
+    	position:absolute; top:50%;
+   		z-index:1;}
+
+
+#whole{ position: relative;
+		text-align:center;
+		padding-top:100px;
+	}
+
+#img-two{ display:none;
+		margin: auto;
+		width: 600px;
+		}
+
+#img-one{width: 400px;
+		margin: auto;
+	}
+
+
